@@ -1,0 +1,15 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "files.exclude": {
+        "**/tmp": true,
+        "**/dist": true
+    },
+    // Configure glob patterns for excluding files and folders in searches. Inherits all glob patterns from the files.exclude setting.
+    "search.exclude": {
+        "**/node_modules": false,
+        "**/tmp": true,
+        "**/dist": true
+    },
+    // Automatically update extensions
+    "extensions.autoUpdate": true
+}
