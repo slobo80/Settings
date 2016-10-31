@@ -1,4 +1,4 @@
-// Place your settings in this file to overwrite the default settings
+// VSCode Place your settings in this file to overwrite the default settings
 {
     "files.exclude": {
         "**/.git": true,
