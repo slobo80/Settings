@@ -1,0 +1,19 @@
+// Place your key bindings in this file to overwrite the defaults
+[{
+    "key": "ctrl+k ctrl+d",
+    "command": "editor.action.formatDocument",
+    "when": "editorTextFocus"
+}
+,{
+    "key": "shift+alt+down",
+    "command": "editor.action.insertCursorAbove",
+    "when": "editorTextFocus"
+},{
+    "key": "shift+alt+up",
+    "command": "editor.action.insertCursorBelow",
+    "when": "editorTextFocus"
+},{
+    "key": "ctrl+m ctrl+m",
+    "command": "editor.foldAll",
+    "when": "editorTextFocus"
+}]
